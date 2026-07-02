@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.vscode"
+		},
+		{
+			"path": "../../../../../Desktop/tp2"
+		},
+		{
+			"name": "surv_env",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
